@@ -12,3 +12,6 @@ syntax enable
 set background=dark
 let g:solarized_termcolor = 256
 colorscheme solarized
+set tabstop=4
+set shiftwidth=4
+set expandtab
